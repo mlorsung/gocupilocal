@@ -2,8 +2,8 @@ package polargraph
 
 import (
 	chart "github.com/gonum/plot"
-	chartplotter "github.com/gonum/plot/plotter"
-	vg "github.com/gonum/plot/vg"
+	chartplotter "ghttps://github.com/gonum/plot/tree/master/plotter"
+	vg "https://github.com/gonum/plot/tree/master/vg"
 	"image/color"
 )
 
